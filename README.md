@@ -3,25 +3,28 @@
 # :exclamation: About me
 
 - I'm a 21 years old
-- Actually working at <a href="https://www.ingaia.com.br/"> inGaia </a> as a backend Jr developer.
 
-- Rocketseat GoStack Boot Camp student. I've been creating projects with the technologies:
+- Actually working at <a href="https://www.ingaia.com.br/" alt="inGaia" target="_blank"> inGaia </a> as a Backend Jr developer.
 
-  <img src="https://res.cloudinary.com/mesquini/image/upload/v1594483582/icons/html_gtxlri.png" width=30 style='vertical-align:middle;' />
+- I currently do Information Systems college.
 
-  <img src="https://res.cloudinary.com/mesquini/image/upload/v1594483581/icons/css_hf6a3n.png" width=30 style='vertical-align:middle;' />  
+- <a href="https://rocketseat.com.br/gostack" alt="GoStack" target="_blank">GoStack</a> BootCamp student. I've been creating projects with the technologies:
+
+  <img src="https://res.cloudinary.com/mesquini/image/upload/v1594483582/icons/html_gtxlri.png" width=30 alt="image" />
+
+  <img src="https://res.cloudinary.com/mesquini/image/upload/v1594483581/icons/css_hf6a3n.png" width=30 alt="image" />  
       
-  <img src="https://res.cloudinary.com/mesquini/image/upload/v1594483582/icons/js_gfg0ug.webp" width=30 style='vertical-align:middle;' />  
+  <img src="https://res.cloudinary.com/mesquini/image/upload/v1594483582/icons/js_gfg0ug.webp" width=30 alt="image" />  
     
-  <img src="https://res.cloudinary.com/mesquini/image/upload/v1594483581/icons/ts_jwjjg1.webp" width=30 style='vertical-align:middle;' />  
+  <img src="https://res.cloudinary.com/mesquini/image/upload/v1594483581/icons/ts_jwjjg1.webp" width=30 alt="image" />  
     
-  <img src="https://res.cloudinary.com/mesquini/image/upload/v1594483581/icons/reactjs_iu5jty.png" width=30 style='vertical-align:middle;' />  
+  <img src="https://res.cloudinary.com/mesquini/image/upload/v1594483581/icons/reactjs_iu5jty.png" width=30 alt="image" />  
     
-  <img src="https://res.cloudinary.com/mesquini/image/upload/v1594483581/icons/sql_otn3x8.png" width=30 style='vertical-align:middle;' />  
+  <img src="https://res.cloudinary.com/mesquini/image/upload/v1594483581/icons/sql_otn3x8.png" width=30 alt="image" />  
     
-  <img src="https://res.cloudinary.com/mesquini/image/upload/v1594483581/icons/nosql_ay9h1i.png" width=30 style='vertical-align:middle;' />  
+  <img src="https://res.cloudinary.com/mesquini/image/upload/v1594483581/icons/nosql_ay9h1i.png" width=30 alt="image" />  
       
-  <img src="https://res.cloudinary.com/mesquini/image/upload/v1594483581/icons/c_t2gjkk.png" alt="image" width=30 style='vertical-align:middle;' />
+  <img src="https://res.cloudinary.com/mesquini/image/upload/v1594483581/icons/c_t2gjkk.png" alt="image" width=30 alt="image" />
 
 - Ready to participate in new projects and learn even more about this world of development.
 
