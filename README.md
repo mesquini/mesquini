@@ -7,45 +7,21 @@
 
 - Rocketseat GoStack Boot Camp student. I've been creating projects with the technologies:
 
-  <div style='vertical-align:middle; display:inline;margin:10px;'> 
-    <img src="https://res.cloudinary.com/mesquini/image/upload/v1594483582/icons/html_gtxlri.png" width=30 style='vertical-align:middle;' />  
-    HTML
-  </div><br />
+  <img src="https://res.cloudinary.com/mesquini/image/upload/v1594483582/icons/html_gtxlri.png" width=30 style='vertical-align:middle;' />
 
-  <div style='vertical-align:middle; display:inline;margin:10px;'> 
-    <img src="https://res.cloudinary.com/mesquini/image/upload/v1594483581/icons/css_hf6a3n.png" width=30 style='vertical-align:middle;' />  
-    CSS
-  </div><br />
-
-  <div style='vertical-align:middle; display:inline;margin:10px;'> 
+  <img src="https://res.cloudinary.com/mesquini/image/upload/v1594483581/icons/css_hf6a3n.png" width=30 style='vertical-align:middle;' />  
+      
   <img src="https://res.cloudinary.com/mesquini/image/upload/v1594483582/icons/js_gfg0ug.webp" width=30 style='vertical-align:middle;' />  
-  NodeJS
-  </div><br />
-
-  <div style='vertical-align:middle; display:inline;margin:10px;'> 
+    
   <img src="https://res.cloudinary.com/mesquini/image/upload/v1594483581/icons/ts_jwjjg1.webp" width=30 style='vertical-align:middle;' />  
-  TypeScript
-  </div><br />
-
-  <div style='vertical-align:middle; display:inline;margin:10px;'> 
+    
   <img src="https://res.cloudinary.com/mesquini/image/upload/v1594483581/icons/reactjs_iu5jty.png" width=30 style='vertical-align:middle;' />  
-  ReactJS / React Native
-  </div><br />
-
-  <div style='vertical-align:middle; display:inline;margin:10px;'> 
+    
   <img src="https://res.cloudinary.com/mesquini/image/upload/v1594483581/icons/sql_otn3x8.png" width=30 style='vertical-align:middle;' />  
-  SQL
-  </div><br />
-
-  <div style='vertical-align:middle; display:inline;margin:10px;'> 
+    
   <img src="https://res.cloudinary.com/mesquini/image/upload/v1594483581/icons/nosql_ay9h1i.png" width=30 style='vertical-align:middle;' />  
-  NoSQL
-  </div><br />
-
-  <div style='vertical-align:middle; display:inline;margin:10px;'> 
-  <img src="https://res.cloudinary.com/mesquini/image/upload/v1594483581/icons/c_t2gjkk.png" alt="image" width=30 style='vertical-align:middle;' />  
-  C#
-  </div><br />
+      
+  <img src="https://res.cloudinary.com/mesquini/image/upload/v1594483581/icons/c_t2gjkk.png" alt="image" width=30 style='vertical-align:middle;' />
 
 - Ready to participate in new projects and learn even more about this world of development.
 
