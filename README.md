@@ -35,7 +35,7 @@
  <div style='vertical-align:middle; display:inline;margin:10px;'> 
  NoSQL
  </div><br />
- <img src=".github/c.png" width=30 style='vertical-align:middle;' />  
+ <img src="./.github/c.png" width=30 style='vertical-align:middle;' />  
  <div style='vertical-align:middle; display:inline;margin:10px;'> 
  C#
  </div><br />
