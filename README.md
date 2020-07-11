@@ -1,29 +1,48 @@
-<style>
-  p {
-    margin-top: 10px;
-  }
-</style>
-
-### Hi there 👋
-
-## Prazer, Eu sou o Victor
-
-### Desenvolvedor backend
+### Hi there 👋 Pleasure, I'm Victor
 
 # :exclamation: About me
-
-<p class="containe">asdasd</p>
 
 - I'm a 21 years old
 - Actually working at <a href="https://www.ingaia.com.br/"> inGaia </a> as a backend Jr developer.
 
 - Rocketseat GoStack Boot Camp student. I've been creating projects with the technologies:
 
-  - HTML, CSS, JavaScript, TypeScript, Node.js, React JS, React Native, SQL, NoSQL, C#.
+ <img src=".github/html.png" width=30 style='vertical-align:middle;' />  
+ <div style='vertical-align:middle; display:inline;margin:10px;'> 
+ HTML
+ </div><br />
+ <img src=".github/css.png" width=30 style='vertical-align:middle;' />  
+ <div style='vertical-align:middle; display:inline;margin:10px;'> 
+ CSS
+ </div><br />
+ <img src=".github/js.webp" width=30 style='vertical-align:middle;' />  
+ <div style='vertical-align:middle; display:inline;margin:10px;'> 
+ NodeJS
+ </div><br />
+ <img src=".github/ts.webp" width=30 style='vertical-align:middle;' />  
+ <div style='vertical-align:middle; display:inline;margin:10px;'> 
+ TypeScript
+ </div><br />
+ <img src=".github/reactjs.png" width=30 style='vertical-align:middle;' />  
+ <div style='vertical-align:middle; display:inline;margin:10px;'> 
+ ReactJS / React Native
+ </div><br />
+ <img src=".github/sql.png" width=30 style='vertical-align:middle;' />  
+ <div style='vertical-align:middle; display:inline;margin:10px;'> 
+ SQL
+ </div><br />
+ <img src=".github/nosql.png" width=30 style='vertical-align:middle;' />  
+ <div style='vertical-align:middle; display:inline;margin:10px;'> 
+ NoSQL
+ </div><br />
+ <img src=".github/c.png" width=30 style='vertical-align:middle;' />  
+ <div style='vertical-align:middle; display:inline;margin:10px;'> 
+ C#
+ </div><br />
 
 - Ready to participate in new projects and learn even more about this world of development.
 
-# :mail: How to reach me:
+# :email: How to reach me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=appveyor/)](https://www.linkedin.com/in/mesquini/)
 [![Portifolio Badge](https://img.shields.io/badge/-portfolio-green?style=for-the-badge&logo=appveyor/)](https://mesquini.github.io/)
