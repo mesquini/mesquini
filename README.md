@@ -35,7 +35,11 @@
  <div style='vertical-align:middle; display:inline;margin:10px;'> 
  NoSQL
  </div><br />
- <img src="https://github.com/mesquini/mesquini/tree/master/.github/c.png" width=30 style='vertical-align:middle;' />  
+ <img src="https://github.com/mesquini/mesquini/tree/master/.github/c.png" alt="image" width=30 style='vertical-align:middle;' />  
+ <div style='vertical-align:middle; display:inline;margin:10px;'> 
+ C#
+ </div><br />
+ <img src="https://img1.gratispng.com/20180831/bol/kisspng-c-programming-language-logo-microsoft-visual-stud-atlas-portfolio-5b8991925c19f7.9738748215357423543773.jpg" alt="image" width=30 style='vertical-align:middle;' />  
  <div style='vertical-align:middle; display:inline;margin:10px;'> 
  C#
  </div><br />
