@@ -35,8 +35,8 @@
  <div style='vertical-align:middle; display:inline;margin:10px;'> 
  NoSQL
  </div><br />
- <img src="https://github.com/mesquini/mesquini/tree/master/.github/c.png" alt="image" width=30 style='vertical-align:middle;' />  
  <div style='vertical-align:middle; display:inline;margin:10px;'> 
+ <img src="https://res.cloudinary.com/mesquini/image/upload/v1594483581/icons/c_t2gjkk.png" alt="image" width=30 style='vertical-align:middle;' />  
  C#
  </div><br />
 
