@@ -1,49 +1,27 @@
-### Hi there 👋 Pleasure, I'm Victor
-
-# :exclamation: About me
-
-- I'm a 21 years old
-
-- Actually working at <a href="https://www.ingaia.com.br/" alt="inGaia" target="_blank"> inGaia </a> as a Backend Jr developer.
-
-- I currently do Information Systems college.
-
-- <a href="https://rocketseat.com.br/gostack" alt="GoStack" target="_blank">GoStack</a> BootCamp student. I've been creating projects with the technologies:
-
-  <img src="https://res.cloudinary.com/mesquini/image/upload/v1594483582/icons/html_gtxlri.png" width=30 alt="image" />
-
-  <img src="https://res.cloudinary.com/mesquini/image/upload/v1594483581/icons/css_hf6a3n.png" width=30 alt="image" />  
-      
-  <img src="https://res.cloudinary.com/mesquini/image/upload/v1594483582/icons/js_gfg0ug.webp" width=30 alt="image" />  
-    
-  <img src="https://res.cloudinary.com/mesquini/image/upload/v1594483581/icons/ts_jwjjg1.webp" width=30 alt="image" />  
-    
-  <img src="https://res.cloudinary.com/mesquini/image/upload/v1594483581/icons/reactjs_iu5jty.png" width=30 alt="image" />  
-    
-  <img src="https://res.cloudinary.com/mesquini/image/upload/v1594483581/icons/sql_otn3x8.png" width=30 alt="image" />  
-    
-  <img src="https://res.cloudinary.com/mesquini/image/upload/v1594483581/icons/nosql_ay9h1i.png" width=30 alt="image" />  
-      
-  <img src="https://res.cloudinary.com/mesquini/image/upload/v1594483581/icons/c_t2gjkk.png" alt="image" width=30 alt="image" />
-
-- Ready to participate in new projects and learn even more about this world of development.
-
-# :email: How to reach me:
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=appveyor/)](https://www.linkedin.com/in/mesquini/)
-[![Portifolio Badge](https://img.shields.io/badge/-portfolio-green?style=for-the-badge&logo=appveyor/)](https://mesquini.github.io/)
-
-<!--
-**mesquini/mesquini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Victor Marques Mesquini
+<div align="center">
+  <a href="https://github.com/mesquini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mesquini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mesquini&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Mesquini-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Mesquini-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Mesquini-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Mesquini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Mesquini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Mesquini-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="right" alt="Mesquini-pic" height="250" style="border-radius:50px;" src="https://instagram.fcpq14-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/p750x750/74892123_181684432884348_1316565664972458519_n.jpg?_nc_ht=instagram.fcpq14-1.fna.fbcdn.net&_nc_cat=100&_nc_ohc=34TkW_YS7AIAX-5Rann&tn=O8-lM2RuwvOKcYlf&edm=AP_V10EBAAAA&ccb=7-4&oh=00_AT81d9gifjlLNL2TbcNPlP-Zv-rIAIuLgBEFV1o--R8CAQ&oe=61E04583&_nc_sid=4f375e">
+</div>
+ 
+##
+ 
+<div> 
+  <a href="https://instagram.com/meesquini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href="https://www.twitch.tv/mesquini" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+  <a href = "mailto:mesquini@live.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/mesquini" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+  ![Snake animation](https://github.com/mesquini/mesquini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
