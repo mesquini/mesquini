@@ -11,7 +11,6 @@
   <img align="center" alt="Mesquini-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Mesquini-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Mesquini-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Mesquini-pic" height="250" style="border-radius:50px;" src="https://scontent.fcpq14-1.fna.fbcdn.net/v/t1.6435-9/80120100_3296420400429244_711893376227606528_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_eui2=AeH4ou9igYQkAZx0NsvCjSSrTrpaju9zQihOulqO73NCKI5kh4zO644oNiq5J9ZNKsX5MXqczJXQikrhyr4g_tEj&_nc_ohc=jSXXsztkyXYAX-vAang&_nc_ht=scontent.fcpq14-1.fna&oh=00_AT-eEnkY2x5-6AzCUT6_6ZVXGyIP73L660dq3G5aoXaOCA&oe=62098C03">
 </div>
  
 ##
