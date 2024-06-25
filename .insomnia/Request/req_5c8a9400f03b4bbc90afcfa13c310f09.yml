@@ -1,0 +1,26 @@
+_id: req_5c8a9400f03b4bbc90afcfa13c310f09
+type: Request
+parentId: fld_78eb656beed440908e8ff29ff63f821d
+modified: 1715793470382
+created: 1715619943608
+url: "{{ _.urlBase }}/project/consolidate"
+name: consolidate projects
+description: ""
+method: POST
+body:
+  mimeType: application/json
+  text: '["1425c892-fe97-49ea-bbf5-75461e0ce0bf",
+    "6df1cf03-bb1c-4648-abbc-31c61180aac5"]'
+parameters: []
+headers:
+  - name: Content-Type
+    value: application/json
+authentication: {}
+metaSortKey: -1713680162961.9062
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

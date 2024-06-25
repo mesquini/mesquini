@@ -1,0 +1,26 @@
+_id: req_ae884b52457540a09512e0ede94c7455
+type: Request
+parentId: fld_3d63db6205cb4b2683c76da0388e38ac
+modified: 1715866250720
+created: 1713274992575
+url: "{{ _.urlBase }}/voucher"
+name: Create
+description: ""
+method: POST
+body: {}
+parameters: []
+headers:
+  - id: pair_b0bb67b103194cef905f0e35682c726d
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI0N2EzNjlhNC1iN2E5LTRhODktODAxYS03MjE4ODYyMWEwMTEiLCJ1c2VyRGF0YSI6eyJpZCI6IjQ3YTM2OWE0LWI3YTktNGE4OS04MDFhLTcyMTg4NjIxYTAxMSIsIm5hbWUiOiJWaWN0b3IgTWFycXVlcyBNZXNxdWluaSIsImVtYWlsIjoibWVzcXVpbmlAbGl2ZS5jb20iLCJwaG9uZSI6IjE5OTkyMDk4NTE2IiwiY3JlYXRlZCI6IjIwMjQtMDEtMDhUMTk6Mjc6MjcuNTg4WiIsImRlZmF1bHRPcmdhbml6YXRpb25JZCI6IjVmMTA3ZjY4LWZkZTUtNDU3MC04NzNiLWFiYmU3OTEyNDVlMCJ9LCJzdGF5TG9nZ2VkIjp0cnVlLCJpYXQiOjE3MTU4NjYyMzIsImV4cCI6MTc0NzQwMjIzMn0.VdevZFjz6TPxbngU3OhV4OOOaovsH68rzAfYLtC7rlk
+    description: ""
+    disabled: false
+authentication: {}
+metaSortKey: -1713274992575
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

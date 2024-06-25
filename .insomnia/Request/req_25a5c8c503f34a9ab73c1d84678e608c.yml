@@ -1,0 +1,26 @@
+_id: req_25a5c8c503f34a9ab73c1d84678e608c
+type: Request
+parentId: fld_3e36ecbe085840a09a439158197563aa
+modified: 1716312478570
+created: 1716312471721
+url: "{{ _.urlBase }}/webhook/analytics-ai/verify"
+name: analytics ai verify
+description: ""
+method: GET
+body: {}
+parameters: []
+headers:
+  - id: pair_b0bb67b103194cef905f0e35682c726d
+    name: x-access-token
+    value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI0N2EzNjlhNC1iN2E5LTRhODktODAxYS03MjE4ODYyMWEwMTEiLCJ1c2VyRGF0YSI6eyJpZCI6IjQ3YTM2OWE0LWI3YTktNGE4OS04MDFhLTcyMTg4NjIxYTAxMSIsIm5hbWUiOiJWaWN0b3IgTWFycXVlcyBNZXNxdWluaSIsImVtYWlsIjoibWVzcXVpbmlAbGl2ZS5jb20iLCJwaG9uZSI6IjE5OTkyMDk4NTE2IiwiY3JlYXRlZCI6IjIwMjQtMDEtMDhUMTk6Mjc6MjcuNTg4WiIsImRlZmF1bHRPcmdhbml6YXRpb25JZCI6IjVmMTA3ZjY4LWZkZTUtNDU3MC04NzNiLWFiYmU3OTEyNDVlMCJ9LCJzdGF5TG9nZ2VkIjp0cnVlLCJpYXQiOjE3MTU4NjYyMzIsImV4cCI6MTc0NzQwMjIzMn0.VdevZFjz6TPxbngU3OhV4OOOaovsH68rzAfYLtC7rlk
+    description: ""
+    disabled: false
+authentication: {}
+metaSortKey: -1709384717307.5
+isPrivate: false
+settingStoreCookies: true
+settingSendCookies: true
+settingDisableRenderRequestBody: false
+settingEncodeUrl: true
+settingRebuildPath: true
+settingFollowRedirects: global

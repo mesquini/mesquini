@@ -1,0 +1,14 @@
+_id: env_179ace9f244c4342bb5e41c8f1772727
+type: Environment
+parentId: env_88939acd79f345eda6053bf0006a238a
+modified: 1713805766783
+created: 1713286649299
+name: Homolog
+data:
+  urlBase: https://app.vialize.net/homolog/api
+dataPropertyOrder:
+  "&":
+    - urlBase
+color: "#ffd500"
+isPrivate: false
+metaSortKey: 1713274948710

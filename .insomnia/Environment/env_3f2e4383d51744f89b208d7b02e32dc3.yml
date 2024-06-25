@@ -1,0 +1,14 @@
+_id: env_3f2e4383d51744f89b208d7b02e32dc3
+type: Environment
+parentId: env_88939acd79f345eda6053bf0006a238a
+modified: 1713805848532
+created: 1713805582935
+name: Prod
+data:
+  urlBase: https://app.vialize.net/prod-alfa/api
+dataPropertyOrder:
+  "&":
+    - urlBase
+color: "#11ff00"
+isPrivate: false
+metaSortKey: 1713540261872.5
